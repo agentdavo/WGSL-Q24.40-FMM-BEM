@@ -1,4 +1,4 @@
-# WGSL Q24.40 FMM BMM Framework
+# WGSL Q24.40 FMM BEM Framework
 
 ## Overview
 
