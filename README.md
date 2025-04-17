@@ -1,4 +1,4 @@
-# WGSL Q24.40 Fixed-Point Library and FMM Kernel Framework
+# WGSL Q24.40 FMM BMM Framework
 
 ## Overview
 
